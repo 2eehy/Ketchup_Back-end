@@ -17,6 +17,10 @@ KETCHUP은 기업 내 업무 공유와 협업을 원활하게 하여 업무의 �
 - **Procedure**를 활용한 DB 내부 자동 삭제 구현
 - **다음 주소 API**를 활용한 우편주소 검색 구현
 
+# 스크린샷
+<img width="1344" alt="image" src="https://github.com/user-attachments/assets/ea97371a-d76b-4a80-b0bb-d78d9b7ec03e">
+
+
 ## 개발환경
 <img width="683" alt="image" src="https://github.com/user-attachments/assets/6e6d7138-808c-4785-bfb4-9416cd1137c9">
 
