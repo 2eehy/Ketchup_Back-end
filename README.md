@@ -20,6 +20,11 @@ KETCHUP은 기업 내 업무 공유와 협업을 원활하게 하여 업무의 �
 # 스크린샷
 <img width="1344" alt="image" src="https://github.com/user-attachments/assets/ea97371a-d76b-4a80-b0bb-d78d9b7ec03e">
 
+# 시연영상
+
+https://github.com/user-attachments/assets/f2b8f444-67d0-40ad-95e1-220efd926f31
+
+
 
 ## 개발환경
 <img width="683" alt="image" src="https://github.com/user-attachments/assets/6e6d7138-808c-4785-bfb4-9416cd1137c9">
